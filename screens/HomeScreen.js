@@ -60,10 +60,11 @@ export default class HomeScreen extends Component {
   }
 }
 
+//  HOLAA SOLO LE MOVI AQUí 
 const styles = StyleSheet.create({
   buttonsContainer: {
     alignSelf: 'center',
-    marginTop: 50,
+    marginTop: 30,
   },
   buttons: {
     backgroundColor:"coral",
@@ -71,7 +72,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     borderWidth: 1,
     borderRadius: 15,
-    margin:10,
+    margin:30,
     width: 150,
     height: 50,
   },
